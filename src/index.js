@@ -1,0 +1,5 @@
+import './css/main.styl'
+import '../node_modules/amfe-flexible/index.js'
+import './script/main.js'
+import './script/fastclick.js'
+import '@babel/polyfill'
